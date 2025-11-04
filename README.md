@@ -2,6 +2,8 @@
 
 **Globot** allows you to sync Discord channels across multiple servers, automatically translate messages, and moderate toxic content. Perfect for multilingual communities or multi-server networks.
 
+Try our bot [here](https://discord.com/oauth2/authorize?client_id=1358240134344081438) or join our support channel: https://discord.gg/wwURWX4mFW
+
 ---
 
 ## Features
