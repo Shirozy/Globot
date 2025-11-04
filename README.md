@@ -23,6 +23,8 @@ DISCORD_TOKEN=YOUR_BOT_TOKEN
 ENABLE_TOXICITY=True
 ENABLE_TRANSLATION=True
 LIBRETRANSLATE_URL=http://localhost:5000/translate
+DEBUG_LEVEL=mod
+BOT_OWNER_ID=12345..
 ```
 
 * `DISCORD_TOKEN`: Your bot’s token from the Discord Developer Portal.
